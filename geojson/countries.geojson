@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "iso_a2": "FR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [2.2241, 51.0891],
+            [7.4399, 48.9889],
+            [7.4399, 42.3142],
+            [-5.1422, 42.3142],
+            [-5.1422, 51.0891],
+            [2.2241, 51.0891]
+          ]
+        ]
+      }
+    }
+  ]
+}
