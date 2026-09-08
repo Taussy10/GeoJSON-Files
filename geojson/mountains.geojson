@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mont Blanc",
+        "elevation_m": 4808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8652, 45.8326]
+      }
+    }
+  ]
+}
