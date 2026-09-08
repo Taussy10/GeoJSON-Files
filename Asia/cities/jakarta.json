@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.70, -6.08],
+            [106.97, -6.08],
+            [106.97, -6.36],
+            [106.70, -6.36],
+            [106.70, -6.08]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jakarta"
+      }
+    }
+  ]
+}

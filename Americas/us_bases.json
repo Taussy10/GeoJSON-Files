@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramstein Air Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6,
+          49.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadena Air Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.76,
+          26.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Humphreys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03,
+          36.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Udeid Air Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31,
+          25.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAF Lakenheath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aviano Air Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59,
+          46.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Lemonnier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.14,
+          11.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naval Station Rota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33,
+          36.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andersen AFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92,
+          13.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diego Garcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.42,
+          -7.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.94,
+          21.34
+        ]
+      }
+    }
+  ]
+}

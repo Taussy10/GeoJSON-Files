@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keibul Lamjao National Park",
+        "location": "Bishnupur district, Manipur, India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [93.811, 24.580],
+            [93.824, 24.587],
+            [93.840, 24.575],
+            [93.850, 24.550],
+            [93.845, 24.535],
+            [93.830, 24.525],
+            [93.815, 24.520],
+            [93.800, 24.530],
+            [93.795, 24.545],
+            [93.805, 24.565],
+            [93.811, 24.580]
+          ]
+        ]
+      }
+    }
+  ]
+}

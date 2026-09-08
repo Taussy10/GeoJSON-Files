@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.3, -5.9],
+            [107.3, -5.9],
+            [107.3, -6.8],
+            [106.3, -6.8],
+            [106.3, -5.9]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jabodetabek (Metropolitan Area)"
+      }
+    }
+  ]
+}
