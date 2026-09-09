@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Thar Desert", "ecoregion": "IM1304"}, "geometry": {"type": "Polygon", "coordinates": [[[69.0, 24.5], [69.2, 25.5], [70.0, 27.0], [71.5, 28.5], [73.5, 29.5], [75.0, 28.0], [74.5, 26.5], [73.0, 25.0], [71.5, 24.2], [69.0, 24.5]]]}}]}
